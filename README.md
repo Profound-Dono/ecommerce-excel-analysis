@@ -56,7 +56,7 @@ The cleaned dataset was then used as the source for the project's PivotTables an
 
 ## Dashboard
 
-![E-Commerce Dashboard](Dashboard.png)
+![E-Commerce Dashboard](images/Dashboard.png)
 
 The dashboard provides an interactive overview of:
 
