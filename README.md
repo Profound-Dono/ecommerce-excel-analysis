@@ -1,7 +1,3 @@
-# ecommerce-excel-analysis
-End-to-end e-commerce sales analysis using Excel and Power Query, including data cleaning, KPI analysis and an interactive management dashboard.
-# E-Commerce Sales Performance Analysis
-
 ## Overview
 
 An end-to-end data analysis project using **Microsoft Excel and Power Query** to investigate e-commerce sales performance and create an interactive management dashboard.
